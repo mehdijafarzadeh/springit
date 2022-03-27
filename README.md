@@ -38,7 +38,7 @@ command to run if program contains helper info
 Contributors names and contact info
 
 ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. [@Demo](https://twitter.com)
 
 ## Version History
 
@@ -55,6 +55,6 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
+* [readme](https://github.com)
+* [mehdi](https://gist.github.com)
+* [Jaf](https://github.com)
